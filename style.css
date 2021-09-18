@@ -1,0 +1,16 @@
+body{
+background-image:url('https://i.pinimg.com/originals/e0/7e/7b/e07e7b7657ce8f6006052dec816af6e6.jpg');
+}
+
+.btn-common{
+    background-color: rgb(243, 91, 103);
+    width: 100%;
+}
+
+#copy-right-footer{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    background-color: rgb(243, 91, 103);
+}
