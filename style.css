@@ -14,3 +14,7 @@ background-image:url('https://i.pinimg.com/originals/e0/7e/7b/e07e7b7657ce8f6006
     text-align: center;
     background-color: rgb(243, 91, 103);
 }
+
+canvas{
+    border:5px solid rgb(65, 37, 39);
+}
